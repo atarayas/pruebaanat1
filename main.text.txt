@@ -1,1 +1,2 @@
-Esto es una prueba para ver como funciona
+Esto es una prueba para ver como 
+Esto es para ver si los cambios se guardan y sincronizan.
